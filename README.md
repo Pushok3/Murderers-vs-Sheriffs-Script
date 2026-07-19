@@ -1,7 +1,7 @@
 # Murderers-vs-Sheriffs-Script
 
-Hi all! Thanks for using my cheat on Roblox "Murderers vs Sheriffs \ MvS"
-i make this cheat like 1 - 3 hours, and i have so manny errors which i repair
+Hi all! Thanks for using my cheat on Roblox "Murderers vs Sheriffs \ MvS" and this absolutely Keyless,
+i made this cheat like 1 - 3 hours, and i has so manny errors which i repair
 
 And now lets speak about functions:
 Hitbox Expander (can change color if you click RMB on setting)
